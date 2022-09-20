@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lato';
+}
+.bgbg {
+    background-size: cover;
+}
+
+header {
+    background-image: url(../Asset/Image/gedungupj2.jpg);
+    background-size: cover;
+}
+
+.header-cover{
+    color: white;
+    opacity: 85%;
+    padding-top: 300px;
+}
+
+.header-cover p{
+    padding-top: 50px;
+    text-align:justify;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size:large
+}
+
+.header-cover h1{
+    text-align: center;
+}
+
+.header-text h1, p {
+    text-align: center important;
+}
+
+.row{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
